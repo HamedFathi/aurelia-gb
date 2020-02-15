@@ -1,0 +1,4 @@
+|                                                                                            |                                                                                |
+| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| [stringifyDOM](/jit-html/function/debugging/stringifydom.md)                               | [stringifyInstructions](/jit-html/function/debugging/stringifyinstructions.md) |
+| [stringifyTemplateDefinition](/jit-html/function/debugging/stringifytemplatedefinition.md) |                                                                                |

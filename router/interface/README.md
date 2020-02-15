@@ -1,0 +1,24 @@
+|                                                                                                      |                                                                                                    |
+| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| [AnchorEventInfo](/router/interface/link-handler/anchoreventinfo.md)                                 | [ConfigurableRoute](/router/interface/route-recognizer/configurableroute.md)                       |
+| [IBrowserNavigatorOptions](/router/interface/browser-navigator/ibrowsernavigatoroptions.md)          | [IBrowserViewerStoreOptions](/router/interface/browser-viewer-store/ibrowserviewerstoreoptions.md) |
+| [IComponentAndOrViewportOrNothing](/router/interface/interfaces/icomponentandorviewportornothing.md) | [IComponentParameter](/router/interface/instruction-resolver/icomponentparameter.md)               |
+| [IFindViewportsResult](/router/interface/scope/ifindviewportsresult.md)                              | [IGotoOptions](/router/interface/router/igotooptions.md)                                           |
+| [IHookDefinition](/router/interface/hook-manager/ihookdefinition.md)                                 | [IHookOptions](/router/interface/hook-manager/ihookoptions.md)                                     |
+| [IInstructionResolverOptions](/router/interface/instruction-resolver/iinstructionresolveroptions.md) | [ILinkHandlerOptions](/router/interface/link-handler/ilinkhandleroptions.md)                       |
+| [IMergedParameters](/router/interface/parser/imergedparameters.md)                                   | [INavRoute](/router/interface/nav/inavroute.md)                                                    |
+| [INavigatorEntry](/router/interface/navigator/inavigatorentry.md)                                    | [INavigatorFlags](/router/interface/navigator/inavigatorflags.md)                                  |
+| [INavigatorInstruction](/router/interface/interfaces/inavigatorinstruction.md)                       | [INavigatorOptions](/router/interface/navigator/inavigatoroptions.md)                              |
+| [INavigatorState](/router/interface/navigator/inavigatorstate.md)                                    | [INavigatorStore](/router/interface/navigator/inavigatorstore.md)                                  |
+| [INavigatorViewer](/router/interface/navigator/inavigatorviewer.md)                                  | [INavigatorViewerEvent](/router/interface/navigator/inavigatorviewerevent.md)                      |
+| [INavigatorViewerOptions](/router/interface/navigator/inavigatorvieweroptions.md)                    | [INavigatorViewerState](/router/interface/navigator/inavigatorviewerstate.md)                      |
+| [IParsedQuery](/router/interface/parser/iparsedquery.md)                                             | [IQueueOptions](/router/interface/queue/iqueueoptions.md)                                          |
+| [IQueueableItem](/router/interface/task-queue/iqueueableitem.md)                                     | [IRoute](/router/interface/interfaces/iroute.md)                                                   |
+| [IRouteSeparators](/router/interface/instruction-resolver/irouteseparators.md)                       | [IRouteableComponent](/router/interface/interfaces/irouteablecomponent.md)                         |
+| [IRouter](/router/interface/router/irouter.md)                                                       | [IRouterOptions](/router/interface/router/irouteroptions.md)                                       |
+| [IScopeOwner](/router/interface/scope/iscopeowner.md)                                                | [IScopeOwnerOptions](/router/interface/scope/iscopeowneroptions.md)                                |
+| [IStoredNavigatorEntry](/router/interface/navigator/istorednavigatorentry.md)                        | [ITaskQueueOptions](/router/interface/task-queue/itaskqueueoptions.md)                             |
+| [IViewportInstruction](/router/interface/interfaces/iviewportinstruction.md)                         | [IViewportInstructionsOptions](/router/interface/type-resolvers/iviewportinstructionsoptions.md)   |
+| [IViewportOptions](/router/interface/viewport/iviewportoptions.md)                                   | [IViewportScopeOptions](/router/interface/viewport-scope/iviewportscopeoptions.md)                 |
+| [QueueItem](/router/interface/queue/queueitem.md)                                                    | [RecognizeResults](/router/interface/route-recognizer/recognizeresults.md)                         |
+| [RouteHandler](/router/interface/route-recognizer/routehandler.md)                                   |                                                                                                    |

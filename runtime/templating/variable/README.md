@@ -1,0 +1,3 @@
+|                                                               |                                                                   |
+| ------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [Bindable](/runtime/templating/variable/bindable/bindable.md) | [IViewLocator](/runtime/templating/variable/view/iviewlocator.md) |

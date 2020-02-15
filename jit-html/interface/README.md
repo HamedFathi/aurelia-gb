@@ -1,0 +1,6 @@
+|                                                                                                    |                                                                                                      |
+| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [CustomElementSymbol](/jit-html/interface/semantic-model/customelementsymbol.md)                   | [IAttrSyntaxTransformer](/jit-html/interface/attribute-syntax-transformer/iattrsyntaxtransformer.md) |
+| [ITemplateElementFactory](/jit-html/interface/template-element-factory/itemplateelementfactory.md) | [LetElementSymbol](/jit-html/interface/semantic-model/letelementsymbol.md)                           |
+| [PlainElementSymbol](/jit-html/interface/semantic-model/plainelementsymbol.md)                     | [ReplacePartSymbol](/jit-html/interface/semantic-model/replacepartsymbol.md)                         |
+| [TemplateControllerSymbol](/jit-html/interface/semantic-model/templatecontrollersymbol.md)         | [TextSymbol](/jit-html/interface/semantic-model/textsymbol.md)                                       |

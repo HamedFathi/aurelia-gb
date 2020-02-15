@@ -1,0 +1,3 @@
+|                                                                                              |                                                |
+| -------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| [HTMLTargetedInstructionType](/runtime-html/enum/definitions/htmltargetedinstructiontype.md) | [NodeType](/runtime-html/enum/dom/nodetype.md) |

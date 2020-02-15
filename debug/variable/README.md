@@ -1,0 +1,3 @@
+|                                                                           |                                                                           |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [DebugConfiguration](/debug/variable/configuration/debugconfiguration.md) | [TraceConfiguration](/debug/variable/configuration/traceconfiguration.md) |

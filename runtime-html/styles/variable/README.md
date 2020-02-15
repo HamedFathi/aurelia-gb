@@ -1,0 +1,4 @@
+|                                                                                                     |                                                                                               |
+| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [IShadowDOMGlobalStyles](/runtime-html/styles/variable/shadow-dom-styles/ishadowdomglobalstyles.md) | [IShadowDOMStyles](/runtime-html/styles/variable/shadow-dom-styles/ishadowdomstyles.md)       |
+| [StyleConfiguration](/runtime-html/styles/variable/style-configuration/styleconfiguration.md)       | [noopShadowDOMStyles](/runtime-html/styles/variable/shadow-dom-styles/noopshadowdomstyles.md) |

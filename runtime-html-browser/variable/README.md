@@ -1,0 +1,4 @@
+|                                                                                                    |                                                                                                        |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| [DefaultComponents](/runtime-html-browser/variable/index/defaultcomponents.md)                     | [IBrowserSchedulerRegistration](/runtime-html-browser/variable/index/ibrowserschedulerregistration.md) |
+| [IDOMInitializerRegistration](/runtime-html-browser/variable/index/idominitializerregistration.md) |                                                                                                        |

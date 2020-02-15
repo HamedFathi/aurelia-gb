@@ -1,0 +1,4 @@
+|                                                                        |                                                                                         |
+| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [BindingWithBehavior](/i18n/typealias/utils/bindingwithbehavior.md)    | [I18NConfigOptionsProvider](/i18n/typealias/configuration/i18nconfigoptionsprovider.md) |
+| [I18nModule](/i18n/typealias/i18n-configuration-options/i18nmodule.md) |                                                                                         |

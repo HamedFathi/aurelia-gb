@@ -1,0 +1,5 @@
+|                                                                              |                                                                                              |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| [AttributePattern](/jit/interface/attribute-pattern/attributepattern.md)     | [AttributePatternDefinition](/jit/interface/attribute-pattern/attributepatterndefinition.md) |
+| [IAttributeParser](/jit/interface/attribute-parser/iattributeparser.md)      | [IAttributePattern](/jit/interface/attribute-pattern/iattributepattern.md)                   |
+| [ISyntaxInterpreter](/jit/interface/attribute-pattern/isyntaxinterpreter.md) |                                                                                              |

@@ -1,0 +1,4 @@
+|                                                                                                                                |                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| [AttrBindingBehavior](/runtime-html/resources/binding-behaviors/class/attr/attrbindingbehavior.md)                             | [SelfBindingBehavior](/runtime-html/resources/binding-behaviors/class/self/selfbindingbehavior.md) |
+| [UpdateTriggerBindingBehavior](/runtime-html/resources/binding-behaviors/class/update-trigger/updatetriggerbindingbehavior.md) |                                                                                                    |

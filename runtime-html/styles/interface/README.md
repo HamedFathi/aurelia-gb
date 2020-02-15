@@ -1,0 +1,3 @@
+|                                                                                                          |                                                                                          |
+| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [IShadowDOMConfiguration](/runtime-html/styles/interface/style-configuration/ishadowdomconfiguration.md) | [IShadowDOMStyles](/runtime-html/styles/interface/shadow-dom-styles/ishadowdomstyles.md) |

@@ -1,0 +1,3 @@
+|                                                                                                         |                                                                                 |
+| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [MaybeSubjectPromise](/runtime-html/resources/custom-elements/typealias/compose/maybesubjectpromise.md) | [Subject](/runtime-html/resources/custom-elements/typealias/compose/subject.md) |

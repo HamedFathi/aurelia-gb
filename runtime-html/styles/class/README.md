@@ -1,0 +1,4 @@
+|                                                                                                      |                                                                                                               |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| [AdoptedStyleSheetsStyles](/runtime-html/styles/class/shadow-dom-styles/adoptedstylesheetsstyles.md) | [CSSModulesProcessorRegistry](/runtime-html/styles/class/css-modules-registry/cssmodulesprocessorregistry.md) |
+| [ShadowDOMRegistry](/runtime-html/styles/class/shadow-dom-registry/shadowdomregistry.md)             | [StyleElementStyles](/runtime-html/styles/class/shadow-dom-styles/styleelementstyles.md)                      |

@@ -1,0 +1,5 @@
+|                                                                                        |                                                                                                  |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| [ChildrenObserver](/runtime/templating/interface/children/childrenobserver.md)         | [ICompiledRenderContext](/runtime/templating/interface/render-context/icompiledrendercontext.md) |
+| [IComponentFactory](/runtime/templating/interface/render-context/icomponentfactory.md) | [IRenderContext](/runtime/templating/interface/render-context/irendercontext.md)                 |
+| [IViewLocator](/runtime/templating/interface/view/iviewlocator.md)                     |                                                                                                  |

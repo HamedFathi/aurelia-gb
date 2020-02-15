@@ -1,0 +1,6 @@
+|                                                                                    |                                                                                          |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [bindingBehavior](/runtime/resources/function/binding-behavior/bindingbehavior.md) | [containerless](/runtime/resources/function/custom-element/containerless.md)             |
+| [customAttribute](/runtime/resources/function/custom-attribute/customattribute.md) | [customElement](/runtime/resources/function/custom-element/customelement.md)             |
+| [strict](/runtime/resources/function/custom-element/strict.md)                     | [templateController](/runtime/resources/function/custom-attribute/templatecontroller.md) |
+| [useShadowDOM](/runtime/resources/function/custom-element/useshadowdom.md)         | [valueConverter](/runtime/resources/function/value-converter/valueconverter.md)          |

@@ -1,0 +1,3 @@
+|                                                                            |                                                                                                |
+| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| [RetryableRequest](/fetch-client/typealias/interfaces/retryablerequest.md) | [ValidInterceptorMethodName](/fetch-client/typealias/interfaces/validinterceptormethodname.md) |

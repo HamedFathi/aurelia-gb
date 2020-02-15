@@ -1,0 +1,4 @@
+|                                                                                                |                                                                                                  |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| [ComponentAppellationResolver](/router/literal/type-resolvers/componentappellationresolver.md) | [NavigationInstructionResolver](/router/literal/type-resolvers/navigationinstructionresolver.md) |
+| [RouterConfiguration](/router/literal/configuration/routerconfiguration.md)                    | [ViewportHandleResolver](/router/literal/type-resolvers/viewporthandleresolver.md)               |

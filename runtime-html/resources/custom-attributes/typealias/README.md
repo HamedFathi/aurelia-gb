@@ -1,0 +1,3 @@
+|                                                                                                                  |                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [PortalLifecycleCallback](/runtime-html/resources/custom-attributes/typealias/portal/portallifecyclecallback.md) | [PortalTarget](/runtime-html/resources/custom-attributes/typealias/portal/portaltarget.md) |

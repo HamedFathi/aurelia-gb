@@ -1,0 +1,4 @@
+|                                                                                                 |                                                                                       |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [BindingInterceptor](/runtime/resources/interface/binding-behavior/bindinginterceptor.md)       | [IElementProjector](/runtime/resources/interface/custom-element/ielementprojector.md) |
+| [IInterceptableBinding](/runtime/resources/interface/binding-behavior/iinterceptablebinding.md) | [IProjectorLocator](/runtime/resources/interface/custom-element/iprojectorlocator.md) |

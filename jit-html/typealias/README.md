@@ -1,0 +1,6 @@
+|                                                                                          |                                                                                |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| [AnySymbol](/jit-html/typealias/semantic-model/anysymbol.md)                             | [ElementSymbol](/jit-html/typealias/semantic-model/elementsymbol.md)           |
+| [NodeSymbol](/jit-html/typealias/semantic-model/nodesymbol.md)                           | [ParentNodeSymbol](/jit-html/typealias/semantic-model/parentnodesymbol.md)     |
+| [ResourceAttributeSymbol](/jit-html/typealias/semantic-model/resourceattributesymbol.md) | [SymbolWithBindings](/jit-html/typealias/semantic-model/symbolwithbindings.md) |
+| [SymbolWithMarker](/jit-html/typealias/semantic-model/symbolwithmarker.md)               | [SymbolWithTemplate](/jit-html/typealias/semantic-model/symbolwithtemplate.md) |

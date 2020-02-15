@@ -1,0 +1,3 @@
+| Modifier(s)                            | Extends                                    |
+|----------------------------------------|--------------------------------------------|
+| export | [IAccessor](/runtime/interface/observation/iaccessor.md)&lt;unknown&gt;, [ISubscribable](/runtime/interface/observation/isubscribable.md), [ISubscriberCollection](/runtime/interface/observation/isubscribercollection.md), [IPropertyObserver](/runtime/interface/observation/ipropertyobserver.md)&lt;{ [x: string]: unknown; [x: number]: unknown; }, string&gt; |

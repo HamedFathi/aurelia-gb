@@ -1,0 +1,4 @@
+|                                                                                 |                                                                        |
+| ------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [I18N](/i18n/variable/i18n/i18n.md)                                             | [I18nConfiguration](/i18n/variable/configuration/i18nconfiguration.md) |
+| [I18nInitOptions](/i18n/variable/i18n-configuration-options/i18ninitoptions.md) | [I18nWrapper](/i18n/variable/i18next-wrapper/i18nwrapper.md)           |

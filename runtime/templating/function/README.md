@@ -1,0 +1,5 @@
+|                                                                                     |                                                                                   |
+| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [bindable](/runtime/templating/function/bindable/bindable.md)                       | [children](/runtime/templating/function/children/children.md)                     |
+| [getRenderContext](/runtime/templating/function/render-context/getrendercontext.md) | [isRenderContext](/runtime/templating/function/render-context/isrendercontext.md) |
+| [view](/runtime/templating/function/view/view.md)                                   |                                                                                   |

@@ -1,0 +1,3 @@
+| Modifier(s)                            | Extends                                    |
+|----------------------------------------|--------------------------------------------|
+| export | [IBindingTargetObserver](/runtime/interface/observation/ibindingtargetobserver.md)&lt;[IHtmlElement](/runtime-html/observation/interface/element-attribute-observer/ihtmlelement.md), string, unknown&gt;, [ISubscriber](/runtime/interface/observation/isubscriber.md)&lt;unknown&gt;, [ISubscriberCollection](/runtime/interface/observation/isubscribercollection.md) |

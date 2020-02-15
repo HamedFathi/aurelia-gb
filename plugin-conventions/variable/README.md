@@ -1,0 +1,4 @@
+|                                                                                                |                                                                                    |
+| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [defaultCssExtensions](/plugin-conventions/variable/options/defaultcssextensions.md)           | [defaultJsExtensions](/plugin-conventions/variable/options/defaultjsextensions.md) |
+| [defaultTemplateExtensions](/plugin-conventions/variable/options/defaulttemplateextensions.md) |                                                                                    |

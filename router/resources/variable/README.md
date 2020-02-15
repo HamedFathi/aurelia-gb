@@ -1,0 +1,3 @@
+|                                                                         |                                                                                         |
+| ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [ParentViewport](/router/resources/variable/viewport/parentviewport.md) | [ParentViewportScope](/router/resources/variable/viewport-scope/parentviewportscope.md) |

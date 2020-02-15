@@ -1,0 +1,5 @@
+|                                                                                      |                                                                              |
+| ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| [File](/aot/system/class/file-system/file.md)                                        | [NPMPackage](/aot/system/class/npm-package-loader/npmpackage.md)             |
+| [NPMPackageDependency](/aot/system/class/npm-package-loader/npmpackagedependency.md) | [NPMPackageLoader](/aot/system/class/npm-package-loader/npmpackageloader.md) |
+| [NodeFileSystem](/aot/system/class/file-system/nodefilesystem.md)                    | [PatternMatcher](/aot/system/class/pattern-matcher/patternmatcher.md)        |

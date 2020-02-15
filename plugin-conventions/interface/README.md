@@ -1,0 +1,4 @@
+|                                                                                                   |                                                                                   |
+| ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [IFileUnit](/plugin-conventions/interface/options/ifileunit.md)                                   | [INameConvention](/plugin-conventions/interface/options/inameconvention.md)       |
+| [IOptionalPreprocessOptions](/plugin-conventions/interface/options/ioptionalpreprocessoptions.md) | [IPreprocessOptions](/plugin-conventions/interface/options/ipreprocessoptions.md) |

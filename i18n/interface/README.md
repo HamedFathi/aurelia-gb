@@ -1,0 +1,4 @@
+|                                                                                  |                                                                                                    |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| [I18N](/i18n/interface/i18n/i18n.md)                                             | [I18nConfigurationOptions](/i18n/interface/i18n-configuration-options/i18nconfigurationoptions.md) |
+| [I18nInitOptions](/i18n/interface/i18n-configuration-options/i18ninitoptions.md) |                                                                                                    |

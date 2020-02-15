@@ -1,0 +1,4 @@
+|                                                                                 |                                                                           |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [DefaultResources](/plugin-pixi/variable/index/defaultresources.md)             | [PixiAppRegistration](/plugin-pixi/variable/index/pixiappregistration.md) |
+| [PixiSpriteRegistration](/plugin-pixi/variable/index/pixispriteregistration.md) |                                                                           |

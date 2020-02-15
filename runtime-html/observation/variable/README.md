@@ -1,0 +1,3 @@
+|                                                                                    |                                                                                 |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [IEventManager](/runtime-html/observation/variable/event-manager/ieventmanager.md) | [ISVGAnalyzer](/runtime-html/observation/variable/svg-analyzer/isvganalyzer.md) |

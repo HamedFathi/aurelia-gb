@@ -1,0 +1,3 @@
+|                                                                         |                                                                               |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [JSDOMInitializer](/runtime-html-jsdom/class/index/jsdominitializer.md) | [JSDOMScheduler](/runtime-html-jsdom/class/jsdom-scheduler/jsdomscheduler.md) |
